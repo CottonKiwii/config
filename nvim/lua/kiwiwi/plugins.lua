@@ -1,9 +1,9 @@
 require("lazy").setup({
 	{
-		"folke/tokyonight.nvim",
-		lazy = false,
-		priority = 1000,
-		opts = {},
+	  "2giosangmitom/nightfall.nvim",
+	  lazy = false,
+	  priority = 1000,
+	  opts = {},
 	},
 	{
 		"nvim-telescope/telescope.nvim",

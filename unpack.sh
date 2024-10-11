@@ -21,4 +21,5 @@ unpack () {
 
 unpack .tmux.conf ~/.tmux.conf
 unpack nvim ~/.config/nvim
+unpack kiwiwi.zsh-theme ~/.oh-my-zsh/themes/kiwiwi.zsh-theme
 unpack .zshrc ~/.zshrc

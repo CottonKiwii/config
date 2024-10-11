@@ -11,7 +11,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("gridis.remaps")
-require("gridis.options")
-require("gridis.plugins")
-require("gridis.plugins_config")
+require("kiwiwi.remaps")
+require("kiwiwi.options")
+require("kiwiwi.plugins")
+require("kiwiwi.plugins_config")
